@@ -27,8 +27,9 @@ Stanford Car Dataset by classes folder을 사용
 학습 데이터가 부족한 분야의 모델 구축을 위해 데이터가 풍부한 분야에서 훈련된 모델을 재사용하는 머신러닝 학습 기법
 
 ## 결과
-<img src="https://user-images.githubusercontent.com/49273782/167881155-f709c080-ed14-424a-8057-598e13be2efa.png"  width="400" height="370">
+<img src="https://user-images.githubusercontent.com/49273782/167881155-f709c080-ed14-424a-8057-598e13be2efa.png"  width="500" height="370">
+<img src="(https://user-images.githubusercontent.com/49273782/167881271-fcf045f0-d2e8-413c-aaec-ead733164864.png"  width="500" height="370">
 
-![image](https://user-images.githubusercontent.com/49273782/167881155-f709c080-ed14-424a-8057-598e13be2efa.png)
-![image](https://user-images.githubusercontent.com/49273782/167881271-fcf045f0-d2e8-413c-aaec-ead733164864.png)
+## 분석 및 고찰
+전이학습을 진행한 모델 ( (평균) 77.83% )  > 전이학습을 진행하지 않은 모델 ( (평균) 54.33% )
 
