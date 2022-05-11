@@ -18,10 +18,9 @@ Stanford Car Dataset by classes folder을 사용
 심층 신경망을 사용하여 세분화된 분류 작업을 진행하고 다양한 모델을 적용하여 성능을 평가 및 비교 분석
 
 ## Model
-### AlexNet
-### GoogleNet
-### DenseNet
-### ResNet
+#### AlexNet
+#### ResNet18
+#### ResNet50 
 
 ## 전이학습
 학습 데이터가 부족한 분야의 모델 구축을 위해 데이터가 풍부한 분야에서 훈련된 모델을 재사용하는 머신러닝 학습 기법
