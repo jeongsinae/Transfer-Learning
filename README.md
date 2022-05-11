@@ -12,7 +12,7 @@ Stanford Car Dataset by classes folder을 사용
 >	> 테스트 이미지 8.041개
 >	> 제조사, 모델, 제조연도 ( ex) BMW M3 2012)
 
-다운로드 링크 : <http:https://www.kaggle.com/datasets/jessicali9530/stanford-cars-dataset>
+다운로드 링크 : <https://www.kaggle.com/datasets/jessicali9530/stanford-cars-dataset>
 
 ## 연구 목적
 심층 신경망을 사용하여 세분화된 분류 작업을 진행하고 다양한 모델을 적용하여 성능을 평가 및 비교 분석
