@@ -27,7 +27,7 @@ Stanford Car Dataset by classes folder을 사용
 
 ## 결과
 <img src="https://user-images.githubusercontent.com/49273782/167881155-f709c080-ed14-424a-8057-598e13be2efa.png"  width="500" height="370">
-<img src="(https://user-images.githubusercontent.com/49273782/167881271-fcf045f0-d2e8-413c-aaec-ead733164864.png"  width="500" height="370">
+<img src="https://user-images.githubusercontent.com/49273782/167881271-fcf045f0-d2e8-413c-aaec-ead733164864.png"  width="500" height="370">
 
 ## 분석 및 고찰
 전이학습을 진행한 모델 ( (평균) 77.83% )  > 전이학습을 진행하지 않은 모델 ( (평균) 54.33% )
