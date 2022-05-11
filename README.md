@@ -6,6 +6,12 @@ ResNet50, ResNet18, AlexNet을 사용하였고 전이학습 유무로 한번 더
 
 ## 데이터셋
 Stanford Car Dataset by classes folder을 사용
+>	> 총 16,185개의 이미지
+>	> 196개의 종류
+>	> 학습 이미지 8,144개
+>	> 테스트 이미지 8.041개
+>	> 제조사, 모델, 제조연도 ( ex) BMW M3 2012)
+
 다운로드 링크 : <a href="https://www.kaggle.com/datasets/jessicali9530/stanford-cars-dataset"></a>
 
 ## 연구 목적
@@ -19,4 +25,4 @@ Stanford Car Dataset by classes folder을 사용
 
 ## 전이학습
 학습 데이터가 부족한 분야의 모델 구축을 위해 데이터가 풍부한 분야에서 훈련된 모델을 재사용하는 머신러닝 학습 기법
-<img src="C:\Users\SEC\OneDrive - 전북대학교\바탕 화면\그림1.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
+
